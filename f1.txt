@@ -13,3 +13,5 @@ pwd : grPdj0Vq0UsxOWXy0bYgEMGsItcGRLpf
 
 //Task - 102
 int x = 99;
+
+int i = 22;//new
