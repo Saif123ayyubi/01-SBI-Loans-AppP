@@ -11,5 +11,12 @@ username : default
 pwd : grPdj0Vq0UsxOWXy0bYgEMGsItcGRLpf
 
 
+<<<<<<< Updated upstream
 //Task - 102
 int x = 99;
+=======
+
+public void m(){//101 task
+int x=10;
+}
+>>>>>>> Stashed changes
