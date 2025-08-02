@@ -32,3 +32,5 @@ int c = 50;
 int c = 25;
 
 int d = 89;
+
+int e = 50;
