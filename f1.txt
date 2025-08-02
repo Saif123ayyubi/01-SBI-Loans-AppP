@@ -15,3 +15,5 @@ pwd : grPdj0Vq0UsxOWXy0bYgEMGsItcGRLpf
 int x = 99;
 
 int i = 22;//new
+
+int c = 50;
