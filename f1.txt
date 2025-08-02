@@ -16,7 +16,18 @@ pwd : grPdj0Vq0UsxOWXy0bYgEMGsItcGRLpf
 int x = 99;
 
 
+
 public void m(){//101 task
 int x=10;
 }
+
+
+int i = 22;//new
+
+int c = 50;
+
+
+
+
+int c = 25;
 
