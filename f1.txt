@@ -36,3 +36,5 @@ int d = 89;
 
 
 String s1 = "jo";
+
+String s2 = "sss";
