@@ -33,4 +33,6 @@ int c = 25;
 
 int d = 89;
 
-int e = 50;
+
+
+String s1 = "jo";
